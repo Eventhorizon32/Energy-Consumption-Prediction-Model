@@ -89,5 +89,5 @@ This project is a machine learning model built in Python to predict energy consu
 ## **Contact**
 For questions or suggestions, please feel free to contact:
 - **Email**: karamimohammadamin754@gmail.com
-- **GitHub**: [yourusername](github.com/Eventhorizon32)
+- **GitHub**: [Eventhorizon32](github.com/Eventhorizon32)
 
